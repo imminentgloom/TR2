@@ -1,5 +1,8 @@
 I'm making a drum machine!
 
+norns+grid required  
+load up your fave nb-voice (oilcan is nice)  
+
 It is not done!
 
 row: 1-5 are tracks, press them to enter 16th notes
